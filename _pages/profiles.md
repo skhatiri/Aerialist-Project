@@ -15,7 +15,7 @@ profiles:
     image_circular: false # crops the image to make it circular
     more_info: >
       <p>Sebastiano Panichella</p>
-      <p>s.panichella@gmail.com</p>
+      <p>spanichella@gmail.com</p>
   - align: left
     image: sajad.jpg
     content: about_sajad.md
